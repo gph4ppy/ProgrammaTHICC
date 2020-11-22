@@ -1,8 +1,8 @@
 # ProgrammaTHICC
 
-ProgrammaTHICC is an app developed for learning programming languages.
+ProgrammaTHICC is an app developed for learning programming languages. 
 
-__At this moment, it offers five languages:__
+__At this moment, it offers five languages:__ 
 - C++
 - C#
 - Swift (to do)
@@ -23,7 +23,7 @@ __At this moment, it offers five languages:__
 - Add multi-platform support (Mac, Watch).
 
 # To Do:
-- Write Swift, PHP and JavaScript tutorials.
+- Write Swift, PHP and JavaScript tutorials. 
 
 # Tech:
 - SwiftUI
@@ -31,20 +31,26 @@ __At this moment, it offers five languages:__
 
 # Images:
 **Login Screen**
+
 ![Login Screen](https://user-images.githubusercontent.com/41966757/99917247-4c222e80-2d0f-11eb-83be-75c2420ec326.PNG)
 
 **Register Screen**
 The app has been tested on iPhone SE 2020, so because I typed some data in the password field, it has been hidden.
+
 ![Register Screen](https://user-images.githubusercontent.com/41966757/99917278-81c71780-2d0f-11eb-9b22-f8728118a6a7.PNG)
 
 **Home Screen**
+
 ![Home Screen](https://user-images.githubusercontent.com/41966757/99917389-32cdb200-2d10-11eb-94ce-582e217b31e3.PNG)
 
 **Detail View**
+
 ![Detail View](https://user-images.githubusercontent.com/41966757/99917429-88a25a00-2d10-11eb-97f1-8a39cf6f1b71.PNG)
 
 **Topic View**
+
 ![Topic View](https://user-images.githubusercontent.com/41966757/99917434-95bf4900-2d10-11eb-9ce1-2bf9442c8afd.PNG)
 
 **Widget**
+
 ![Widget](https://user-images.githubusercontent.com/41966757/99917451-aec7fa00-2d10-11eb-9a71-dac3bfa79178.JPEG)
