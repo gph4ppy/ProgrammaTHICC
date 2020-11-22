@@ -1,0 +1,62 @@
+[
+  {
+    "title": "1. Hello World!",
+    "content": "You will take your first steps in C++ programming right now. Everybody started with a simple concept - printing a \"Hello World\" message. It's the simplest program. Let's start with the basics! \n\ncout is the stream object used to perform standard output. The << operator inserts the data that follows it into the stream that precedes it.",
+    "codeImage": "cpp_hello_world"
+  },
+  {
+    "title": "2. Headers",
+    "content": "C ++ gives us a variety of headers. Headers include predefined functions, data type definitions, or macros to make programming easier. You request to use a header file by including it with the “#include”. iostream defines the standard stream objects that are used for input and output data. \n\nThe syntax is:",
+    "codeImage": "cpp_headers"
+  },
+  {
+    "title": "3. Comments",
+    "content": "Comments are used to explain what the code does. They are ignored by the compiler. There are 2 types of comments: \n\n1. One-line comments: start with \"//\". Such a comment tells the compiler to ignore everything to the end of the line. \n2. Multi-line comment: starts with \"/*\" and ends with \"*/\". The content between these characters can be placed on one or more lines.",
+    "codeImage": "cpp_comments"
+  },
+  {
+    "title": "4. Variables",
+    "content": "Variables are like boxes into which we put things. These boxes are defined what to contain by data type. You can't put food in a toy box - it seems illogical, right? It's the same with variables - when you declare a boolean variable, you can't assign a number to it. The variables are characterized by the fact that the contents of the boxes can be taken out and inserted. We can put a doll into the toy box. However, when we want to put the blocks in, we will take out the doll and put in our new item. \n\nThere are several basic data types: \n1. int (integer) - non-fractional numbers \n2. float (floating point) - fractional numbers \n3. string - ordered sequence of characters \n4. char (characters) - 1-byte integer interpreted as an ASCII character. \n5. bool (boolean) - true/false",
+    "codeImage": "cpp_variables"
+  },
+  {
+    "title": "5. Constants",
+    "content": "A constant is an expression that has a fixed value and cannot be changed once the program is started. We declare a constant with the word \"const\".",
+    "codeImage": "cpp_constants"
+  },
+  {
+    "title": "6. Arithmetics",
+    "content": "C ++ offers us arithmetic symbols: \n1. \"+\" -> adding \n2. \"-\" -> subtraction \n3. \"*\" -> multiplication \n4. \"/\" -> division \n5. \"%\" - modulo (returns the remainder after an division)",
+    "codeImage": "cpp_arithmetics"
+  },
+  {
+    "title": "7. Assignment Operators",
+    "content": "Assignment operators modify the value of the object. C++ offers us a lot of useful operators: \n\n1. simple assignment -> x = y \n2. addition assignment ->  x += y \n3. multiplication assignment -> x *= y \n4. division assignment -> x /= y \n5. modulo assignment -> x %= y",
+    "codeImage": "cpp_assignment_operators"
+  },
+  {
+    "title": "8. Conditionals",
+    "content": "The if statement executes some code when a condition is true. It can be followed by an optional else statement, which executes when the condition is false.",
+    "codeImage": "cpp_conditionals"
+  },
+  {
+    "title": "9. Relational Operators",
+    "content": "C ++ offers six relational operators: \n\n1. Equal to: == \n2. Not equal to: != \n3. Greater than: > \n4. Less than: < \n5. Greater than or equal to: >= \n6. Less than or equal to: <=",
+    "codeImage": "cpp_relational_operators"
+  },
+  {
+    "title": "10. Logical Operators",
+    "content": "C++ offers us three logical operators which are used to determining the logic between variables or values: \n\n1. Logical and: && \n2. Logical or: || \n3. Logical not: !",
+    "codeImage": "cpp_logical_operators"
+  },
+  {
+    "title": "11. Switch",
+    "content": "The switch statement is used to compare a value with a list of cases. If the value is equal to the case, then the code from the given case is executed. Cases end with the word \"break\", which may be omitted for a specific purpose. You can also declare a \"default\" case that will be executed if the value does not match with the provided cases.\n\nThe syntax is:",
+    "codeImage": "cpp_switch"
+  },
+  {
+    "title": "12. Loops",
+    "content": "Loops are used to perform a specific activity multiple times. Suppose you have a birthday and you want to send an invitation to everyone on your friends list. You tell the computer: send invitations to my friends until I send a message to everyone, for every friend on the friends list, send an invitation, send an invitation when not everyone has received the message. \n\nThere are 3 loops: \n1. \"while\" which repeatedly executes some code until a particular condition is satisfied. \n2. \"for\" which executes a specific number of times. Its syntax is for(init; condition; increment). i++ means i = i + 1. \n3. \"do-while\" is similar to a while loop. The one difference is that the do-while loop is guaranteed to execute at least one time.",
+    "codeImage": "cpp_loops"
+  }
+]
