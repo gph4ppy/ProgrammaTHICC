@@ -24,7 +24,6 @@ __At this moment, it offers five languages:__
 
 # To Do:
 - Write Swift, PHP and JavaScript tutorials. 
-- Switch from UserDefaults to CoreData.
 
 # Tech:
 - SwiftUI
